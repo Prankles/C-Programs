@@ -3,7 +3,7 @@ Ci sono due regole che non vanno mai violate:
 1- Non è possibile spostare più di un disco per volta da un pilone all'altro.
 2- Non è possibile mettere un disco più grande sopra uno più piccolo.
 
-Per calcolare il numero di passi necessari per spostare tutti i dischi dal pilone 1 al pilone 3 si usa la seguente formula: 
+Per calcolare il numero di passi necessari per spostare tutti i dischi dal pilone 1 al pilone 3 si usa la seguente formula:
 (2^n)-1
 
 Dove n rappresenta il numero totale di dischi.
